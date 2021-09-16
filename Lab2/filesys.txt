@@ -1,0 +1,10 @@
+Type 	 PathName
+---- 	 ----
+D 		/
+D 		/A
+F 		/A/x
+F 		/A/y
+D 		/B
+F 		/B/z
+F 		/B/z1
+F 		/B/z2
